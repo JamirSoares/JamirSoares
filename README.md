@@ -4,11 +4,11 @@
     </p>
     <h1>
         <p>Hello there, I m Jamir🖖</p>
-        <p>i'm a developer from Brazil, i have knowledge in this programming language HTML, CSS, JavaScript, Java, Python and NodeJs, i know some Database Languages                        (MariaDB,MySql, Microsoft Sql Server), i have familiarity in Windows systems and so many Linux distributions (Kali,Arch,Debian,Ubuntu,Fedora)</p>
+        <p>i'm a developer from Brazil, i have knowledge in this programming language HTML, CSS, JavaScript, Java,React, Python and NodeJs, i know some Database Languages                        (MariaDB,MySql, Microsoft Sql Server), i have familiarity in Windows systems and so many Linux distributions (Kali,Arch,Debian,Ubuntu,Fedora)</p>
     </h1>
     <h2>
         Contatos<br><br>
-        <a href="https://api.whatsapp.com/send?phone=5531982693558" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
+        <a href="https://api.whatsapp.com/send?phone=5531983433249" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
         <a href="https://mail.google.com/mail/u/0/#inbox"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
         <a href="https://www.linkedin.com/in/jamir-rodrigues/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
         <a href="https://github.com/JamirSoares" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
