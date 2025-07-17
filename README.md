@@ -40,11 +40,11 @@ Estou aberto a novos desafios que me permitam crescer profissionalmente e contri
 
 ## 📫 Contato
 
-<a href="https://api.whatsapp.com/send?phone=5531983433249"><img width="22" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" /></a>
+<a href="https://api.whatsapp.com/send?phone=5531983433249"><img width="42" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" /></a>
 <img width="12" />
-<a href="mailto:jamirmelo7@gmail.com"><img width="22" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" /></a>
+<a href="mailto:jamirmelo7@gmail.com"><img width="42" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" /></a>
 <img width="12" />
-<a href="https://www.linkedin.com/in/jamir-rodrigues/"><img width="22" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" /></a>
+<a href="https://www.linkedin.com/in/jamir-rodrigues/"><img width="42" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" /></a>
 
 ---
 
