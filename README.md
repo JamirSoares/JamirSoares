@@ -40,10 +40,11 @@ Estou aberto a novos desafios que me permitam crescer profissionalmente e contri
 
 ## 📫 Contato
 
-[![WhatsApp](https://skillicons.dev/icons?i=whatsapp-3776AB?)](https://api.whatsapp.com/send?phone=5531983433249)  
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jamirmelo7@gmail.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jamir-rodrigues/)  
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JamirSoares)
+[![WhatsApp](https://img.shields.io/badge/whatsapp-3776AB%3F?style=flat)](https://api.whatsapp.com/send?phone=5531983433249)  
+[![Gmail](https://img.shields.io/badge/GMAIL-3776AB?%3F?style=flat)](mailto:jamirmelo7@gmail.com)  
+[![LinkedIn]([https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/whatsapp-3776AB%3F?style=flat))](https://www.linkedin.com/in/jamir-rodrigues/)  
+[![GitHub]([https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/whatsapp-3776AB%3F?style=flat
+))](https://github.com/JamirSoares)
 
 ---
 
