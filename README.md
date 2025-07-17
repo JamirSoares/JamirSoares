@@ -26,12 +26,6 @@ Estou aberto a novos desafios que me permitam crescer profissionalmente e contri
 <img width="12" />
 <img src="https://skillicons.dev/icons?i=java" height="60" alt="python logo"  />
 <img width="12" />
-<img src="https://skillicons.dev/icons?i=sqlserver" height="60" alt="python logo"  />
-<img width="12" />
-<img src="https://skillicons.dev/icons?i=mariaDB" height="60" alt="python logo"  />
-<img width="12" />
-<img src="https://skillicons.dev/icons?i=mysql" height="60" alt="python logo"  />
-<img width="12" />
 
 ### Bancos de Dados
 <img src="https://img.shields.io/badge/MariaDB-01529E?style=for-the-badge&logo=mariadb&logoColor=white" />
