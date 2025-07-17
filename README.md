@@ -40,9 +40,17 @@ Estou aberto a novos desafios que me permitam crescer profissionalmente e contri
 
 ## 📫 Contato
 
-<a href="https://api.whatsapp.com/send?phone=5531983433249"><img width="75" src="https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white" /></a>
-<a href="mailto:jamirmelo7@gmail.com"><img width="70" src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/jamir-rodrigues/"><img width="70" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
+<a href="https://api.whatsapp.com/send?phone=5531983433249"><img width="75" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" /></a>
+<a href="mailto:jamirmelo7@gmail.com"><img width="70" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" /></a>
+<a href="https://www.linkedin.com/in/jamir-rodrigues/"><img width="70" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" /></a>
+
+---
+
+
+  <div align="center">
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=jamirSoares.jamirSoares&" />
+  </div>
+
 
 ---
 
