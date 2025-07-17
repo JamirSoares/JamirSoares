@@ -40,15 +40,20 @@ Estou aberto a novos desafios que me permitam crescer profissionalmente e contri
 
 ## 📫 Contato
 
-<a href="https://api.whatsapp.com/send?phone=5531983433249"><img width="75" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" /></a>
-<a href="mailto:jamirmelo7@gmail.com"><img width="70" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" /></a>
-<a href="https://www.linkedin.com/in/jamir-rodrigues/"><img width="70" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" /></a>
+<a href="https://api.whatsapp.com/send?phone=5531983433249"><img width="12" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" /></a>
+<a href="mailto:jamirmelo7@gmail.com"><img width="12" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" /></a>
+<a href="https://www.linkedin.com/in/jamir-rodrigues/"><img width="12" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" /></a>
 
 ---
 
 
   <div align="center">
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=jamirSoares.jamirSoares&" />
+    <img
+      src="https://github-readme-stats.vercel.app/api?username=jamirSoares&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1"
+      height="150" alt="stats graph" />
+    <img
+      src="https://github-readme-stats.vercel.app/api/top-langs?username=jamirSoares&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2"
+      height="150" alt="languages graph" />
   </div>
 
 
