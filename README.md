@@ -40,9 +40,13 @@ Estou aberto a novos desafios que me permitam crescer profissionalmente e contri
 
 ## 📫 Contato
 
+<img width="12" />
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5531983433249)  
+<img width="12" />
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:jamirmelo7@gmail.com)  
+<img width="12" />
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jamir-rodrigues/)  
+<img width="12" />
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/JamirSoares)
 
 ---
